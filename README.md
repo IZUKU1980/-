@@ -8,6 +8,11 @@
   <img src="https://files.catbox.moe/s1ggtt.jpeg" width="800"/>
 </p>
 
+🐉 Fork the Repository
+
+Click the button below to fork the repository and get your own copy:
+
+[![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/NATSU-MD1/fork)
 
 ## ✨ Generate Your Session ID
 
